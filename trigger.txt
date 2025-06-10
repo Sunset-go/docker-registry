@@ -39,3 +39,4 @@ portainer/portainer-ce:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker
 whyour/qinglong:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/qinglong:latest
 hetaoos/cloud189checkin:latest registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/cloud189checkin:latest
 uozi/nginx-ui:latest  registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/nginx-ui:latest
+dockurr/windows:latest  registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/windows:latest
