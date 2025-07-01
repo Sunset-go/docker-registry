@@ -49,4 +49,3 @@ neosmemo/memos:latest  registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-regist
 ghcr.io/umami-software/umami:latest  registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/umami:latest
 pawelmalak/flame:latest  registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/flame:latest
 filebrowser/filebrowser:latest  registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/filebrowser:latest
-amir20/dockge:latest  registry.cn-hangzhou.aliyuncs.com/my-ubuntu-docker-registry/dockge:latest
